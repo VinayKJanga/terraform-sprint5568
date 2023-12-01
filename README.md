@@ -1,1 +1,0 @@
-# terraform-sprint5568
